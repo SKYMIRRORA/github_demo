@@ -1,1 +1,4 @@
-git remote set-url origin https://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@github.com/SKYMIRRORA/github_demo.git
+git remote set-url origin https://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@github.com/SKYMIRRORA/o3d3xx-python.git
+
+
+git push -u origin master
